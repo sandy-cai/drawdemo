@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Lucky_Draw.LD_Main.resources
+obj\Debug\Lucky_Draw.Properties.Resources.resources
+obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+obj\Debug\Lucky_Draw.LD_DataManage.resources
+obj\Debug\Lucky_Draw.LD_Setting.resources
+bin\Debug\神仙抽奖系统.exe
+bin\Debug\神仙抽奖系统.pdb
+obj\Debug\神仙抽奖系统.exe
+obj\Debug\神仙抽奖系统.pdb
